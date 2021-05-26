@@ -5,7 +5,7 @@ I was looking for functionality offered by loiccoyle/rofi-nordvpn but for sway/w
 
 I will add syntax here.
 
-###waybar module
+### waybar module
 I wrote the following waybar module to use wofi-nordvpn.
 
 ```
